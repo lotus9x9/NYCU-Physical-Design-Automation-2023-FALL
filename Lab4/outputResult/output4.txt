@@ -1,0 +1,3 @@
+Channel density: 1
+Net 1
+C1 2 7

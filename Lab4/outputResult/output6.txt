@@ -1,0 +1,13 @@
+Channel density: 5
+Net 1
+C4 0 15
+Net 2
+C1 7 11
+Net 3
+C2 3 13
+Net 4
+C5 0 4
+Net 5
+C3 3 7
+Net 6
+C5 5 13

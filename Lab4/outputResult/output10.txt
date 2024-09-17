@@ -1,0 +1,81 @@
+Channel density: 35
+Net 1
+C32 62 70
+Net 2
+C23 4 50
+Net 3
+C31 32 62
+Net 4
+C4 47 78
+Net 5
+C18 38 80
+Net 6
+C6 43 57
+Net 7
+C7 13 68
+Net 8
+C27 21 38
+Net 9
+C32 35 49
+Net 10
+C19 19 80
+Net 11
+C21 11 65
+Net 12
+C17 17 71
+Net 13
+C22 18 20
+Net 14
+C35 0 28
+Net 15
+C25 5 61
+Net 16
+C3 2 59
+Net 17
+C34 1 35
+Net 18
+C9 47 72
+Net 19
+C16 15 46
+Net 20
+C12 3 78
+Net 21
+C34 52 66
+Net 22
+C35 44 73
+Net 23
+C14 15 74
+Net 24
+C2 2 63
+Net 25
+C20 18 19
+Net 26
+C1 6 79
+Net 27
+C5 11 76
+Net 28
+C33 3 70
+Net 29
+C32 26 27
+Net 30
+C26 36 65
+Net 31
+C10 4 60
+Net 32
+C29 7 56
+Net 33
+C30 52 69
+Net 34
+C30 1 42
+Net 35
+C28 25 58
+Net 36
+C13 9 75
+Net 37
+C24 16 66
+Net 38
+C11 10 53
+Net 39
+C15 0 39
+Net 40
+C8 29 55
