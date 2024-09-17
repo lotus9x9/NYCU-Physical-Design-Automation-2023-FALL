@@ -1,0 +1,5 @@
+504
+M8 M4 M5 M6 
+Y net12 VDD D pd3 C pd2 B pd1 
+M9 M3 M2 M1 
+Y net12 VSS D net12 C VSS B net12 
